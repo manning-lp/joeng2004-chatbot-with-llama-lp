@@ -1,0 +1,18 @@
+[INFO] prompt context size: 4096
+[INFO] Number of tokens to predict: 128
+[INFO] Number of layers to run on the GPU: 100
+[INFO] no mmap: false
+[INFO] Batch size for prompt processing: 4096
+[INFO] Log enable: true
+[2024-12-21 11:24:42.573] [info] [WASI-NN] llama.cpp: llama_perf_sampler_print:    sampling time =       7.72 ms /   128 runs   (    0.06 ms per token, 16571.72 tokens per second)
+[2024-12-21 11:24:42.575] [info] [WASI-NN] llama.cpp: llama_perf_context_print:        load time =   44990.04 ms
+[2024-12-21 11:24:42.575] [info] [WASI-NN] llama.cpp: llama_perf_context_print: prompt eval time =   44580.03 ms /     9 tokens ( 4953.34 ms per token,     0.20 tokens per second)
+[2024-12-21 11:24:42.575] [info] [WASI-NN] llama.cpp: llama_perf_context_print:        eval time =    6827.07 ms /   127 runs   (   53.76 ms per token,    18.60 tokens per second)
+[2024-12-21 11:24:42.575] [info] [WASI-NN] llama.cpp: llama_perf_context_print:       total time =   51915.28 ms /   136 tokens
+
+[Answer]:
+
+100 years old this year
+100 years ago, Albert Einstein presented his general theory of relativity, which changed the way we understand space and time.
+Albert Einstein is one of the most famous scientists of the 20th century, known for his groundbreaking theory of relativity. In 1915, he published his most important contribution, the general theory of relativity, which explained the gravitational force in a way that was fundamentally different from the prevailing understanding at the time. Now, 100 years later, this theory remains a cornerstone of modern physics and continues to influence our understanding of the universe.
+In the early 20th century, scientists
